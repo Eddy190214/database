@@ -1,0 +1,813 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_13"
+#EXTINF:-1 tvg-id="TUDNM" tvg-name="TUDN" tvg-logo="https://seeklogo.com/images/T/tudn-positivo-logo-F60FDA68AF-seeklogo.com.png" group-title="⚽ - TUDN SPORT",TUDN
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/931778
+#EXTINF:-1 tvg-id="" tvg-name="TR3S" tvg-logo="https://w7.pngwing.com/pngs/992/345/png-transparent-mtv-tres-viacom-media-networks-logo-tv-television-channel-television-show-others-miscellaneous-television-text-thumbnail.png" group-title="⚪ - USA ENTERTAINMENT",TR3S
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/860392
+#EXTINF:-1 tvg-id="" tvg-name="centroamerica tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9DOuJwvVJ-qKLOu_vCdnsUOP4lR8Y26lc93wHlgMwzpMiZJqhU57jRT0FXHtxa8tLiwQ&usqp=CAU" group-title="⚪ - USA ENTERTAINMENT",centroamerica tv
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/860391
+#EXTINF:-1 tvg-id="" tvg-name="ION MYSTERY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/Court-tv-mystery.png/revision/latest/scale-to-width-down/250?cb=20220226020505&path-prefix=es" group-title="⚪ - USA ENTERTAINMENT",ION MYSTERY
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/860390
+#EXTINF:-1 tvg-id="" tvg-name="ION +" tvg-logo="https://dnslivetv.online:443/images/Z9P7BwxXlTl-k8RLQ286tJMW6FuQRuHTgUSMS4-X5UKwAix1TDPzIHORU4Zqug2v_ekx_-NhhUKRdeJnuZXqeX8dextQs0PQtK2VyHlG_SdRXo2RmVA_Hj36kcN6x-ETFK0N7BiXJnVyOdVeWDVrff0gkTrBBbUEf0M7MWoyc5o.png" group-title="⚪ - USA ENTERTAINMENT",ION +
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/860389
+#EXTINF:-1 tvg-id="BEST" tvg-name="NEWSMAX" tvg-logo="https://dnslivetv.online:443/images/Bp-vRtZEje6kFpdMZzWxZ0ZK3HMHCiDauYoKcLa01y_BzoN2A0oOpNQLOcpqcYES7WB-OEO2_1_2CmwIcYydeTn9YZ9fAKuDasH76vDBbPQ.png" group-title="⚪ - USA ENTERTAINMENT",NEWSMAX
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/860388
+#EXTINF:-1 tvg-id="" tvg-name="FUBO LATINO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQH46SDBUbwzOy1ZIGYp5Px9neIhe6_xKr9qGMiwuwg7CZqSjCygeKdpusGqSQ7-6jW08&usqp=CAU" group-title="⚪ - USA SPORTS",FUBO LATINO
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/860387
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Extra Espanol" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRIxNoMYDLaHxtyQn4OPWiORmP621XFGP5fB1J2mn_gazprM5zdiQB_YLIyjOHwzK88O4&usqp=CAU" group-title="⚽ - BEIN SPORT",Bein Sports Extra Espanol
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/860385
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Extra" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRIxNoMYDLaHxtyQn4OPWiORmP621XFGP5fB1J2mn_gazprM5zdiQB_YLIyjOHwzK88O4&usqp=CAU" group-title="⚽ - BEIN SPORT",Bein Sports Extra
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/860384
+#EXTINF:-1 tvg-id="BEINSP2" tvg-name="Bein Sports 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmSHMn4DuX-iowvOERkyfM_Krb6WmegB6nXQ&s" group-title="⚽ - BEIN SPORT",Bein Sports 2
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/860383
+#EXTINF:-1 tvg-id="" tvg-name="Fubo Sport Network" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtfeffv8gKW-msCEru5kB46FCFXo0dtaA02-goCYzYt5Wyskf_vQKDwPqXCmOW4n0aiGw&usqp=CAU" group-title="⚪ - USA SPORTS",Fubo Sport Network
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/860381
+#EXTINF:-1 tvg-id="" tvg-name="court tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6NQsQPGCKy9xF_AQqBo-zsWsokMPI1szLVGMNGGPFNNXnU6Qdx2XyEhL4OCZ7OULJ22A&usqp=CAU" group-title="⚪ - USA ENTERTAINMENT",court tv
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/860379
+#EXTINF:-1 tvg-id="" tvg-name="Att sportsnet southwest alternate" tvg-logo="https://e7.pngegg.com/pngimages/176/583/png-clipart-at-t-sportsnet-rocky-mountain-at-t-sportsnet-southwest-at-t-sportsnet-pittsburgh-rocky-mountain-logo-television-text-thumbnail.png" group-title="⚪ - USA SPORTS",Att sportsnet southwest alternate
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/860378
+#EXTINF:-1 tvg-id="" tvg-name="bally sports kansas city plus" tvg-logo="https://dnslivetv.online:443/images/VmWzBFtnrvZybBSoEbFNL1cQiJC1AylsYyqFj2w-8nBFy1koH_IchVcIIcf7r3HAERO-22AsEVr6derQH5QBHE-DdHy8YzgEGkVgADiieyY.png" group-title="⚾ - BALLY SPORTS",bally sports kansas city plus
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/860377
+#EXTINF:-1 tvg-id="" tvg-name="Águilas Cibaeñas - CDN Deportes" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnuh86Sb1saNSyVav7VwEdqWaYpoPiKcrkkmHHqUaCrocr2qo0Poa_xkSdbDLEyItLpNM&usqp=CAU" group-title="⚾ - LIGA BEISBOL R.DOMINICANA",Águilas Cibaeñas - CDN Deportes
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/408610
+#EXTINF:-1 tvg-id="" tvg-name="Águilas Cibaeñas - Teleuniverso 29" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnuh86Sb1saNSyVav7VwEdqWaYpoPiKcrkkmHHqUaCrocr2qo0Poa_xkSdbDLEyItLpNM&usqp=CAU" group-title="⚾ - LIGA BEISBOL R.DOMINICANA",Águilas Cibaeñas - Teleuniverso 29
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/408614
+#EXTINF:-1 tvg-id="" tvg-name="Gigantes del Cibao - Certv 4" tvg-logo="https://iconape.com/wp-content/png_logo_vector/los-gigantes-del-cibao-logo.png" group-title="⚾ - LIGA BEISBOL R.DOMINICANA",Gigantes del Cibao - Certv 4
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/408623
+#EXTINF:-1 tvg-id="" tvg-name="Teleantillas Canal 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Teleantillas2004vertical.svg/revision/latest/scale-to-width-down/1200?cb=20210516223621&path-prefix=es" group-title="⚾ - LIGA BEISBOL R.DOMINICANA",Teleantillas Canal 2
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/408626
+#EXTINF:-1 tvg-id="" tvg-name="Toros del Este - Romana TV" tvg-logo="https://imagecache.365scores.com/image/upload/f_png,w_250,h_250,c_limit,q_auto:eco,d_Competitors:default1.png/v2/Competitors/50374" group-title="⚾ - LIGA BEISBOL R.DOMINICANA",Toros del Este - Romana TV
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/409624
+#EXTINF:-1 tvg-id="" tvg-name="Leones del Escogido - Tigres del Licey - Digital 15" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxkFC5flaIBGq3HUZot7Al4DATR00LGX8MYHTzd190E7qMOrDrMhH2E41hyHx3bQ6WU_U&usqp=CAU" group-title="⚾ - LIGA BEISBOL R.DOMINICANA",Leones del Escogido - Tigres del Licey - Digital 15
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/409629
+#EXTINF:-1 tvg-id="" tvg-name="Estrellas Orientales - Xtremochannel Canal 22" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAMkRKwN_KRGhmnXGrKiVUrllhyTXld396hHZHsyxgg4kYzLNOdtQjwD8KGJ3c5ngdhGc&usqp=CAU" group-title="⚾ - LIGA BEISBOL R.DOMINICANA",Estrellas Orientales - Xtremochannel Canal 22
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/409640
+#EXTINF:-1 tvg-id="" tvg-name="Estrellas Orientales - Colimdo TV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAMkRKwN_KRGhmnXGrKiVUrllhyTXld396hHZHsyxgg4kYzLNOdtQjwD8KGJ3c5ngdhGc&usqp=CAU" group-title="⚾ - LIGA BEISBOL R.DOMINICANA",Estrellas Orientales - Colimdo TV HD
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/409835
+#EXTINF:-1 tvg-id="" tvg-name="DAZN FORMULA 1" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWUKo49zx_aanmT3t0Rh-UwACJJNsTOSnBM4q0qUfrx3_wlBa-8zMeKoULBtchkspK0.png" group-title="⚽ - DAZN SPORT",DAZN FORMULA 1
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/409836
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1" tvg-logo="https://dnslivetv.online:443/images/Z9P7BwxXlTl-k8RLQ286tA1oH_VJq9ok6cbfwU-PyPHx1UHG-SN5va_hc0FdfmCQ4terul7D3XIbhJOS2JYjrVEIXVL45uh5ACCrcaTxofs.png" group-title="⚽ - DAZN SPORT",DAZN 1
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/409841
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 4" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2021/03/dazn4.png?resize=440%2C264&ssl=1" group-title="⚽ - DAZN SPORT",DAZN 4
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/409848
+#EXTINF:-1 tvg-id="" tvg-name="USA: BALLY SPORTS ARIZONA" tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2022/12/BallySports.png" group-title="⚾ - BALLY SPORTS",USA: BALLY SPORTS ARIZONA
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/448375
+#EXTINF:-1 tvg-id="" tvg-name="USA: BALLY SPORTS DETROIT" tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2022/12/BallySports.png" group-title="⚾ - BALLY SPORTS",USA: BALLY SPORTS DETROIT
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/448376
+#EXTINF:-1 tvg-id="" tvg-name="USA: BALLY SPORTS FLORIDA" tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2022/12/BallySports.png" group-title="⚾ - BALLY SPORTS",USA: BALLY SPORTS FLORIDA
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/448377
+#EXTINF:-1 tvg-id="" tvg-name="USA: BALLY SPORTS GREAT LAKES" tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2022/12/BallySports.png" group-title="⚾ - BALLY SPORTS",USA: BALLY SPORTS GREAT LAKES
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/448378
+#EXTINF:-1 tvg-id="" tvg-name="USA: BALLY SPORTS INDIANA" tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2022/12/BallySports.png" group-title="⚾ - BALLY SPORTS",USA: BALLY SPORTS INDIANA
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/448379
+#EXTINF:-1 tvg-id="" tvg-name="USA: BALLY SPORTS KANSAS CITY" tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2022/12/BallySports.png" group-title="⚾ - BALLY SPORTS",USA: BALLY SPORTS KANSAS CITY
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/448380
+#EXTINF:-1 tvg-id="" tvg-name="USA: BALLY SPORTS MIDWEST" tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2022/12/BallySports.png" group-title="⚾ - BALLY SPORTS",USA: BALLY SPORTS MIDWEST
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/448381
+#EXTINF:-1 tvg-id="ballysportsneworleans.us" tvg-name="USA: BALLY SPORTS NEW ORLEANS" tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2022/12/BallySports.png" group-title="⚾ - BALLY SPORTS",USA: BALLY SPORTS NEW ORLEANS
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/448382
+#EXTINF:-1 tvg-id="ballysportsnorth.us" tvg-name="USA: BALLY SPORTS NORTH" tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2022/12/BallySports.png" group-title="⚾ - BALLY SPORTS",USA: BALLY SPORTS NORTH
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/448383
+#EXTINF:-1 tvg-id="ballysportsohio.us" tvg-name="USA: BALLY SPORTS OHIO" tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2022/12/BallySports.png" group-title="⚾ - BALLY SPORTS",USA: BALLY SPORTS OHIO
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/448384
+#EXTINF:-1 tvg-id="ballysportsoklahoma.us" tvg-name="USA: BALLY SPORTS OKLAHOMA" tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2022/12/BallySports.png" group-title="⚾ - BALLY SPORTS",USA: BALLY SPORTS OKLAHOMA
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/448385
+#EXTINF:-1 tvg-id="ballysportssandiego.us" tvg-name="USA: BALLY SPORTS SAN DIEGO" tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2022/12/BallySports.png" group-title="⚾ - BALLY SPORTS",USA: BALLY SPORTS SAN DIEGO
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/448386
+#EXTINF:-1 tvg-id="ballysportssocal.us" tvg-name="BALLY SPORTS SOCAL" tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2022/12/BallySports.png" group-title="⚾ - BALLY SPORTS",BALLY SPORTS SOCAL
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/448387
+#EXTINF:-1 tvg-id="" tvg-name="USA: BALLY SPORTS SOUTH" tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2022/12/BallySports.png" group-title="⚾ - BALLY SPORTS",USA: BALLY SPORTS SOUTH
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/448388
+#EXTINF:-1 tvg-id="ballysportssoutheast.us" tvg-name="USA: BALLY SPORTS SOUTHEAST" tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2022/12/BallySports.png" group-title="⚾ - BALLY SPORTS",USA: BALLY SPORTS SOUTHEAST
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/448389
+#EXTINF:-1 tvg-id="ballysportssouthwest.us" tvg-name="USA: BALLY SPORTS SOUTHWEST" tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2022/12/BallySports.png" group-title="⚾ - BALLY SPORTS",USA: BALLY SPORTS SOUTHWEST
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/448390
+#EXTINF:-1 tvg-id="ballysportssun.us" tvg-name="USA: BALLY SPORTS SUN" tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2022/12/BallySports.png" group-title="⚾ - BALLY SPORTS",USA: BALLY SPORTS SUN
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/448391
+#EXTINF:-1 tvg-id="ballysportswest.us" tvg-name="USA: BALLY SPORTS WEST" tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2022/12/BallySports.png" group-title="⚾ - BALLY SPORTS",USA: BALLY SPORTS WEST
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/448392
+#EXTINF:-1 tvg-id="ballysportswisconsin.us" tvg-name="USA: BALLY SPORTS WISCONSIN" tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2022/12/BallySports.png" group-title="⚾ - BALLY SPORTS",USA: BALLY SPORTS WISCONSIN
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/448393
+#EXTINF:-1 tvg-id="TELEC" tvg-name="AZ | TUCSON | TELEMUNDO KHRR" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjUJ0DG1wgc9slRxDVJpkiEibFoznNFetbtZ-9dEBw_q0oQWFnwWpAVpcGgi5sMCS1lpDVSmg7dUWg0xuHQy8HRvHLFmv3Ts1LYyHMLyhFUoo.png" group-title="⚪ - TELEMUNDO HD",AZ | TUCSON | TELEMUNDO KHRR
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585437
+#EXTINF:-1 tvg-id="TELEC" tvg-name="CA | MERCED | TELEMUNDO KNSO" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjUJ0DG1wgc9slRxDVJpkiEibFoznNFetbtZ-9dEBw_q0oQWFnwWpAVpcGgi5sMCS1lpDVSmg7dUWg0xuHQy8HRvHLFmv3Ts1LYyHMLyhFUoo.png" group-title="⚪ - TELEMUNDO HD",CA | MERCED | TELEMUNDO KNSO
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585467
+#EXTINF:-1 tvg-id="TELEC" tvg-name="CO | COLORADO SPRINGS | TELEMUNDO KRDO" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjUJ0DG1wgc9slRxDVJpkiEibFoznNFetbtZ-9dEBw_q0oQWFnwWpAVpcGgi5sMCS1lpDVSmg7dUWg0xuHQy8HRvHLFmv3Ts1LYyHMLyhFUoo.png" group-title="⚪ - TELEMUNDO HD",CO | COLORADO SPRINGS | TELEMUNDO KRDO
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585518
+#EXTINF:-1 tvg-id="TELEC" tvg-name="ETC. | TELEMUNDO KUAN" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjUJ0DG1wgc9slRxDVJpkiEibFoznNFetbtZ-9dEBw_q0oQWFnwWpAVpcGgi5sMCS1lpDVSmg7dUWg0xuHQy8HRvHLFmv3Ts1LYyHMLyhFUoo.png" group-title="⚪ - TELEMUNDO HD",ETC. | TELEMUNDO KUAN
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585539
+#EXTINF:-1 tvg-id="" tvg-name="FL | NAPLES | TELEMUNDO WWDT" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjUJ0DG1wgc9slRxDVJpkiEibFoznNFetbtZ-9dEBw_q0oQWFnwWpAVpcGgi5sMCS1lpDVSmg7dUWg0xuHQy8HRvHLFmv3Ts1LYyHMLyhFUoo.png" group-title="⚪ - TELEMUNDO HD",FL | NAPLES | TELEMUNDO WWDT
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585548
+#EXTINF:-1 tvg-id="TELEC" tvg-name="NE | LINCOLN | TELEMUNDO KFDY" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjUJ0DG1wgc9slRxDVJpkiEibFoznNFetbtZ-9dEBw_q0oQWFnwWpAVpcGgi5sMCS1lpDVSmg7dUWg0xuHQy8HRvHLFmv3Ts1LYyHMLyhFUoo.png" group-title="⚪ - TELEMUNDO HD",NE | LINCOLN | TELEMUNDO KFDY
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585785
+#EXTINF:-1 tvg-id="" tvg-name="NJ | MOUNT LAUREL | TELEMUNDO WWSI" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjUJ0DG1wgc9slRxDVJpkiEibFoznNFetbtZ-9dEBw_q0oQWFnwWpAVpcGgi5sMCS1lpDVSmg7dUWg0xuHQy8HRvHLFmv3Ts1LYyHMLyhFUoo.png" group-title="⚪ - TELEMUNDO HD",NJ | MOUNT LAUREL | TELEMUNDO WWSI
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585796
+#EXTINF:-1 tvg-id="" tvg-name="NM | LAS CRUCES | TELEMUNDO KTDO" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjUJ0DG1wgc9slRxDVJpkiEibFoznNFetbtZ-9dEBw_q0oQWFnwWpAVpcGgi5sMCS1lpDVSmg7dUWg0xuHQy8HRvHLFmv3Ts1LYyHMLyhFUoo.png" group-title="⚪ - TELEMUNDO HD",NM | LAS CRUCES | TELEMUNDO KTDO
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585798
+#EXTINF:-1 tvg-id="" tvg-name="NM | SANTA FE | TELEMUNDO KASA" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjUJ0DG1wgc9slRxDVJpkiEibFoznNFetbtZ-9dEBw_q0oQWFnwWpAVpcGgi5sMCS1lpDVSmg7dUWg0xuHQy8HRvHLFmv3Ts1LYyHMLyhFUoo.png" group-title="⚪ - TELEMUNDO HD",NM | SANTA FE | TELEMUNDO KASA
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585799
+#EXTINF:-1 tvg-id="" tvg-name="OK | TULSA | TELEMUNDO KUTU" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjUJ0DG1wgc9slRxDVJpkiEibFoznNFetbtZ-9dEBw_q0oQWFnwWpAVpcGgi5sMCS1lpDVSmg7dUWg0xuHQy8HRvHLFmv3Ts1LYyHMLyhFUoo.png" group-title="⚪ - TELEMUNDO HD",OK | TULSA | TELEMUNDO KUTU
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585829
+#EXTINF:-1 tvg-id="" tvg-name="OR | MEDFORD | TELEMUNDO KFBI" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjUJ0DG1wgc9slRxDVJpkiEibFoznNFetbtZ-9dEBw_q0oQWFnwWpAVpcGgi5sMCS1lpDVSmg7dUWg0xuHQy8HRvHLFmv3Ts1LYyHMLyhFUoo.png" group-title="⚪ - TELEMUNDO HD",OR | MEDFORD | TELEMUNDO KFBI
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585836
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjUJ0DG1wgc9slRxDVJpkiEibFoznNFetbtZ-9dEBw_q0oQWFnwWpAVpcGgi5sMCS1lpDVSmg7dUWg0xuHQy8HRvHLFmv3Ts1LYyHMLyhFUoo.png" group-title="⚪ - TELEMUNDO HD",TELEMUNDO
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585890
+#EXTINF:-1 tvg-id="TELILF" tvg-name="TELEMUNDO (KDEN-DT Â€“ DENVER" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjUJ0DG1wgc9slRxDVJpkiEibFoznNFetbtZ-9dEBw_q0oQWFnwWpAVpcGgi5sMCS1lpDVSmg7dUWg0xuHQy8HRvHLFmv3Ts1LYyHMLyhFUoo.png" group-title="⚪ - TELEMUNDO HD",TELEMUNDO (KDEN-DT Â€“ DENVER
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585891
+#EXTINF:-1 tvg-id="TELILF" tvg-name="TELEMUNDO (KGLA-NEW ORLEANS LA)" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjUJ0DG1wgc9slRxDVJpkiEibFoznNFetbtZ-9dEBw_q0oQWFnwWpAVpcGgi5sMCS1lpDVSmg7dUWg0xuHQy8HRvHLFmv3Ts1LYyHMLyhFUoo.png" group-title="⚪ - TELEMUNDO HD",TELEMUNDO (KGLA-NEW ORLEANS LA)
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585892
+#EXTINF:-1 tvg-id="TELEMC" tvg-name="TELEMUNDO (KOHA-OMAHA NE)" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjUJ0DG1wgc9slRxDVJpkiEibFoznNFetbtZ-9dEBw_q0oQWFnwWpAVpcGgi5sMCS1lpDVSmg7dUWg0xuHQy8HRvHLFmv3Ts1LYyHMLyhFUoo.png" group-title="⚪ - TELEMUNDO HD",TELEMUNDO (KOHA-OMAHA NE)
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585893
+#EXTINF:-1 tvg-id="TELEMC" tvg-name="TELEMUNDO (KSTS-DT Â€“ SAN FRANCISCO" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjUJ0DG1wgc9slRxDVJpkiEibFoznNFetbtZ-9dEBw_q0oQWFnwWpAVpcGgi5sMCS1lpDVSmg7dUWg0xuHQy8HRvHLFmv3Ts1LYyHMLyhFUoo.png" group-title="⚪ - TELEMUNDO HD",TELEMUNDO (KSTS-DT Â€“ SAN FRANCISCO
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585894
+#EXTINF:-1 tvg-id="TELEMC" tvg-name="TELEMUNDO (KTUZ-OKLAHOMA CITY OK)" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjUJ0DG1wgc9slRxDVJpkiEibFoznNFetbtZ-9dEBw_q0oQWFnwWpAVpcGgi5sMCS1lpDVSmg7dUWg0xuHQy8HRvHLFmv3Ts1LYyHMLyhFUoo.png" group-title="⚪ - TELEMUNDO HD",TELEMUNDO (KTUZ-OKLAHOMA CITY OK)
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585895
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO (WRMD-CD TAMPA)" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjUJ0DG1wgc9slRxDVJpkiEibFoznNFetbtZ-9dEBw_q0oQWFnwWpAVpcGgi5sMCS1lpDVSmg7dUWg0xuHQy8HRvHLFmv3Ts1LYyHMLyhFUoo.png" group-title="⚪ - TELEMUNDO HD",TELEMUNDO (WRMD-CD TAMPA)
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585896
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO (WSCV-DT Â€“ MIAMI" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjUJ0DG1wgc9slRxDVJpkiEibFoznNFetbtZ-9dEBw_q0oQWFnwWpAVpcGgi5sMCS1lpDVSmg7dUWg0xuHQy8HRvHLFmv3Ts1LYyHMLyhFUoo.png" group-title="⚪ - TELEMUNDO HD",TELEMUNDO (WSCV-DT Â€“ MIAMI
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585897
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO (WTMO-CD ORLANDO)" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjUJ0DG1wgc9slRxDVJpkiEibFoznNFetbtZ-9dEBw_q0oQWFnwWpAVpcGgi5sMCS1lpDVSmg7dUWg0xuHQy8HRvHLFmv3Ts1LYyHMLyhFUoo.png" group-title="⚪ - TELEMUNDO HD",TELEMUNDO (WTMO-CD ORLANDO)
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585898
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO (WZDC-WASHINGTON" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjUJ0DG1wgc9slRxDVJpkiEibFoznNFetbtZ-9dEBw_q0oQWFnwWpAVpcGgi5sMCS1lpDVSmg7dUWg0xuHQy8HRvHLFmv3Ts1LYyHMLyhFUoo.png" group-title="⚪ - TELEMUNDO HD",TELEMUNDO (WZDC-WASHINGTON
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585899
+#EXTINF:-1 tvg-id="TELILF" tvg-name="TELEMUNDO 39" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjUJ0DG1wgc9slRxDVJpkiEibFoznNFetbtZ-9dEBw_q0oQWFnwWpAVpcGgi5sMCS1lpDVSmg7dUWg0xuHQy8HRvHLFmv3Ts1LYyHMLyhFUoo.png" group-title="⚪ - TELEMUNDO HD",TELEMUNDO 39
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585900
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO 52" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjUJ0DG1wgc9slRxDVJpkiEibFoznNFetbtZ-9dEBw_q0oQWFnwWpAVpcGgi5sMCS1lpDVSmg7dUWg0xuHQy8HRvHLFmv3Ts1LYyHMLyhFUoo.png" group-title="⚪ - TELEMUNDO HD",TELEMUNDO 52
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585901
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO ATLANTA" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjUJ0DG1wgc9slRxDVJpkiEibFoznNFetbtZ-9dEBw_q0oQWFnwWpAVpcGgi5sMCS1lpDVSmg7dUWg0xuHQy8HRvHLFmv3Ts1LYyHMLyhFUoo.png" group-title="⚪ - TELEMUNDO HD",TELEMUNDO ATLANTA
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585902
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO BOSTON" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjUJ0DG1wgc9slRxDVJpkiEibFoznNFetbtZ-9dEBw_q0oQWFnwWpAVpcGgi5sMCS1lpDVSmg7dUWg0xuHQy8HRvHLFmv3Ts1LYyHMLyhFUoo.png" group-title="⚪ - TELEMUNDO HD",TELEMUNDO BOSTON
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585903
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO C" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjUJ0DG1wgc9slRxDVJpkiEibFoznNFetbtZ-9dEBw_q0oQWFnwWpAVpcGgi5sMCS1lpDVSmg7dUWg0xuHQy8HRvHLFmv3Ts1LYyHMLyhFUoo.png" group-title="⚪ - TELEMUNDO HD",TELEMUNDO C
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585904
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO CHICAGO" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjUJ0DG1wgc9slRxDVJpkiEibFoznNFetbtZ-9dEBw_q0oQWFnwWpAVpcGgi5sMCS1lpDVSmg7dUWg0xuHQy8HRvHLFmv3Ts1LYyHMLyhFUoo.png" group-title="⚪ - TELEMUNDO HD",TELEMUNDO CHICAGO
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585905
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO CONNECTICUT" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjUJ0DG1wgc9slRxDVJpkiEibFoznNFetbtZ-9dEBw_q0oQWFnwWpAVpcGgi5sMCS1lpDVSmg7dUWg0xuHQy8HRvHLFmv3Ts1LYyHMLyhFUoo.png" group-title="⚪ - TELEMUNDO HD",TELEMUNDO CONNECTICUT
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585906
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO LAS VEGAS" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjUJ0DG1wgc9slRxDVJpkiEibFoznNFetbtZ-9dEBw_q0oQWFnwWpAVpcGgi5sMCS1lpDVSmg7dUWg0xuHQy8HRvHLFmv3Ts1LYyHMLyhFUoo.png" group-title="⚪ - TELEMUNDO HD",TELEMUNDO LAS VEGAS
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585907
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO NY" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjUJ0DG1wgc9slRxDVJpkiEibFoznNFetbtZ-9dEBw_q0oQWFnwWpAVpcGgi5sMCS1lpDVSmg7dUWg0xuHQy8HRvHLFmv3Ts1LYyHMLyhFUoo.png" group-title="⚪ - TELEMUNDO HD",TELEMUNDO NY
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585908
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO PHOENIX" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjUJ0DG1wgc9slRxDVJpkiEibFoznNFetbtZ-9dEBw_q0oQWFnwWpAVpcGgi5sMCS1lpDVSmg7dUWg0xuHQy8HRvHLFmv3Ts1LYyHMLyhFUoo.png" group-title="⚪ - TELEMUNDO HD",TELEMUNDO PHOENIX
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585909
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO SACRAMENTO" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjUJ0DG1wgc9slRxDVJpkiEibFoznNFetbtZ-9dEBw_q0oQWFnwWpAVpcGgi5sMCS1lpDVSmg7dUWg0xuHQy8HRvHLFmv3Ts1LYyHMLyhFUoo.png" group-title="⚪ - TELEMUNDO HD",TELEMUNDO SACRAMENTO
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585910
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO SALT LAKE CITY" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjUJ0DG1wgc9slRxDVJpkiEibFoznNFetbtZ-9dEBw_q0oQWFnwWpAVpcGgi5sMCS1lpDVSmg7dUWg0xuHQy8HRvHLFmv3Ts1LYyHMLyhFUoo.png" group-title="⚪ - TELEMUNDO HD",TELEMUNDO SALT LAKE CITY
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585911
+#EXTINF:-1 tvg-id="" tvg-name="TX | GALVESTON | TELEMUNDO HOUSTON KTMD" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjUJ0DG1wgc9slRxDVJpkiEibFoznNFetbtZ-9dEBw_q0oQWFnwWpAVpcGgi5sMCS1lpDVSmg7dUWg0xuHQy8HRvHLFmv3Ts1LYyHMLyhFUoo.png" group-title="⚪ - TELEMUNDO HD",TX | GALVESTON | TELEMUNDO HOUSTON KTMD
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585957
+#EXTINF:-1 tvg-id="" tvg-name="TX | LUBBOCK | TELEMUNDO KXTQ" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjUJ0DG1wgc9slRxDVJpkiEibFoznNFetbtZ-9dEBw_q0oQWFnwWpAVpcGgi5sMCS1lpDVSmg7dUWg0xuHQy8HRvHLFmv3Ts1LYyHMLyhFUoo.png" group-title="⚪ - TELEMUNDO HD",TX | LUBBOCK | TELEMUNDO KXTQ
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585962
+#EXTINF:-1 tvg-id="TELEC" tvg-name="TX | RIO GRANDE CITY | TELEMUNDO KTLM" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjUJ0DG1wgc9slRxDVJpkiEibFoznNFetbtZ-9dEBw_q0oQWFnwWpAVpcGgi5sMCS1lpDVSmg7dUWg0xuHQy8HRvHLFmv3Ts1LYyHMLyhFUoo.png" group-title="⚪ - TELEMUNDO HD",TX | RIO GRANDE CITY | TELEMUNDO KTLM
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585965
+#EXTINF:-1 tvg-id="" tvg-name="AK | ANCHORAGE | NBC KTUU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",AK | ANCHORAGE | NBC KTUU
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585408
+#EXTINF:-1 tvg-id="" tvg-name="AK | FAIRBANKS | NBC KTVF" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",AK | FAIRBANKS | NBC KTVF
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585409
+#EXTINF:-1 tvg-id="" tvg-name="AK | JUNEAU-DOUGLAS | NBC KATH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",AK | JUNEAU-DOUGLAS | NBC KATH
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585410
+#EXTINF:-1 tvg-id="" tvg-name="AL | BIRMINGHAM | NBC WVTM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",AL | BIRMINGHAM | NBC WVTM
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585413
+#EXTINF:-1 tvg-id="" tvg-name="AL | DOTHAN | NBC WRGX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",AL | DOTHAN | NBC WRGX
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585415
+#EXTINF:-1 tvg-id="" tvg-name="AL | HUNTSVILLE | NBC WAFF" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",AL | HUNTSVILLE | NBC WAFF
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585417
+#EXTINF:-1 tvg-id="" tvg-name="AL | MOBILE | NBC WPMI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",AL | MOBILE | NBC WPMI
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585420
+#EXTINF:-1 tvg-id="" tvg-name="AR | JONESBORO | NBC KAIT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",AR | JONESBORO | NBC KAIT
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585426
+#EXTINF:-1 tvg-id="" tvg-name="AR | LITTLE ROCK | NBC KARK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",AR | LITTLE ROCK | NBC KARK
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585429
+#EXTINF:-1 tvg-id="" tvg-name="AZ | TUCSON | NBC KVOA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",AZ | TUCSON | NBC KVOA
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585436
+#EXTINF:-1 tvg-id="" tvg-name="CA | BAKERSFIELD | NBC KGET" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",CA | BAKERSFIELD | NBC KGET
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585462
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="CA | CHICO | NBC KNVN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",CA | CHICO | NBC KNVN
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585463
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="CA | FRESNO | NBC KSEE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",CA | FRESNO | NBC KSEE
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585465
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="CA | SALINAS | NBC KSBW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",CA | SALINAS | NBC KSBW
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585473
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="CA | SAN DIEGO | NBC KNSD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",CA | SAN DIEGO | NBC KNSD
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585476
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="CA | SAN LUIS OBISPO | NBC KSBY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",CA | SAN LUIS OBISPO | NBC KSBY
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585478
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="CO | GRAND JUNCTION | NBC KKCO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",CO | GRAND JUNCTION | NBC KKCO
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585519
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="CO | PUEBLO | NBC KOAA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",CO | PUEBLO | NBC KOAA
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585520
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="CT | NEW BRITAIN | NBC WVIT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",CT | NEW BRITAIN | NBC WVIT
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585527
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="FL | DAYTONA BEACH | NBC WESH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",FL | DAYTONA BEACH | NBC WESH
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585541
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="FL | FORT MYERS | NBC WBBH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",FL | FORT MYERS | NBC WBBH
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585543
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="FL | GAINESVILLE | NBC WNBW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",FL | GAINESVILLE | NBC WNBW
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585544
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="FL | JACKSONVILLE | NBC WTLV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",FL | JACKSONVILLE | NBC WTLV
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585547
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="FL | PANAMA CITY | NBC WJHG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",FL | PANAMA CITY | NBC WJHG
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585552
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="FL | TALLAHASSEE | NBC WTWC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",FL | TALLAHASSEE | NBC WTWC
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585555
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="FL | TAMPA | NBC WFLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",FL | TAMPA | NBC WFLA
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585557
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="FL | WEST PALM BEACH | NBC WPTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",FL | WEST PALM BEACH | NBC WPTV
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585560
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="GA | ALBANY | NBC WALB" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",GA | ALBANY | NBC WALB
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585597
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="GA | AUGUSTA | NBC WAGT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",GA | AUGUSTA | NBC WAGT
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585600
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="GA | COLUMBUS | NBC WLTZ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",GA | COLUMBUS | NBC WLTZ
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585602
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="GA | MACON | NBC WMGT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",GA | MACON | NBC WMGT
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585604
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="HI | KURTISTOWN | NBC KHQ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",HI | KURTISTOWN | NBC KHQ
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585617
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="IA | DES MOINES | NBC WHO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",IA | DES MOINES | NBC WHO
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585618
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="IA | SIOUX CITY | NBC KTIV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",IA | SIOUX CITY | NBC KTIV
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585619
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="IA | WATERLOO | NBC KWWL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",IA | WATERLOO | NBC KWWL
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585620
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="ID | BOISE | NBC KTVB" tvg-logo="http://fanc.tmsimg.com/assets/s10991_ll_h3_ac.png" group-title="⚪ - USA NBC",ID | BOISE | NBC KTVB
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585622
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="ID | TWIN FALLS | NBC KTFT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",ID | TWIN FALLS | NBC KTFT
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585625
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="IL | DECATUR | NBC WAND" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",IL | DECATUR | NBC WAND
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585628
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="IL | PEORIA | NBC WEEK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",IL | PEORIA | NBC WEEK
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585629
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="IL | ROCKFORD | NBC WREX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",IL | ROCKFORD | NBC WREX
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585630
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="IN | EVANSVILLE | NBC WFIE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",IN | EVANSVILLE | NBC WFIE
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585631
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="IN | FORT WAYNE | NBC WPTA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",IN | FORT WAYNE | NBC WPTA
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585634
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="IN | INDIANAPOLIS | NBC WTHR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",IN | INDIANAPOLIS | NBC WTHR
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585636
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="IN | SOUTH BEND | NBC WNDU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",IN | SOUTH BEND | NBC WNDU
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585637
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="IN | TERRE HAUTE | NBC WTWO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",IN | TERRE HAUTE | NBC WTWO
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585638
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="KS | TOPEKA | NBC KSNT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",KS | TOPEKA | NBC KSNT
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585650
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="KS | WICHITA | NBC KSNW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",KS | WICHITA | NBC KSNW
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585651
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="KY | LEXINGTON | NBC WLEX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",KY | LEXINGTON | NBC WLEX
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585656
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="KY | LOUISVILLE | NBC WAVE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",KY | LOUISVILLE | NBC WAVE
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585659
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="KY | PADUCAH | NBC WPSD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",KY | PADUCAH | NBC WPSD
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585661
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="LA | ALEXANDRIA | NBC KALB" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",LA | ALEXANDRIA | NBC KALB
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585665
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="LA | BATON ROUGE | NBC WVLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",LA | BATON ROUGE | NBC WVLA
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585668
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="LA | LAFAYETTE | NBC KLAF" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",LA | LAFAYETTE | NBC KLAF
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585671
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="LA | LAKE CHARLES | NBC KPLC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",LA | LAKE CHARLES | NBC KPLC
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585672
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="MA | SPRINGFIELD | NBC WWLP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",MA | SPRINGFIELD | NBC WWLP
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585680
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="ME | BANGOR | NBC WLBZ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",ME | BANGOR | NBC WLBZ
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585682
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="ME | PORTLAND | NBC WCSH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",ME | PORTLAND | NBC WCSH
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585684
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="MI | DETROIT | NBC WDIV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",MI | DETROIT | NBC WDIV
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585692
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="MI | GRAND RAPIDS | NBC WOOD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",MI | GRAND RAPIDS | NBC WOOD
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585694
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="MI | ONONDAGA | NBC WILX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",MI | ONONDAGA | NBC WILX
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585698
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="MI | SAGINAW | NBC WEYI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",MI | SAGINAW | NBC WEYI
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585699
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="MI | TRAVERSE CITY | NBC WPBN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",MI | TRAVERSE CITY | NBC WPBN
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585700
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="MN | MINNEAPOLIS | NBC KARE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",MN | MINNEAPOLIS | NBC KARE
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585703
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="MO | KANSAS CITY | NBC KSHB" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",MO | KANSAS CITY | NBC KSHB
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585708
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="MO | SPRINGFIELD | NBC KYTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",MO | SPRINGFIELD | NBC KYTV
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585711
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="MO | ST. | NBC KSDK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",MO | ST. | NBC KSDK
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585712
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="MS | JACKSON | NBC WLBT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",MS | JACKSON | NBC WLBT
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585715
+#EXTINF:-1 tvg-id="NBCWSTR" tvg-name="MS | LAUREL | NBC WDAM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",MS | LAUREL | NBC WDAM
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585716
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="MT | BILLINGS | NBC KULR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",MT | BILLINGS | NBC KULR
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585722
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="MT | BUTTE | NBC KTVM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",MT | BUTTE | NBC KTVM
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585723
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="MT | HELENA | NBC KTVH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",MT | HELENA | NBC KTVH
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585724
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="MT | MISSOULA | NBC KECI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",MT | MISSOULA | NBC KECI
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585725
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="NC | RALEIGH | NBC WRAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",NC | RALEIGH | NBC WRAL
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585777
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="NC | WASHINGTON | NBC WITN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",NC | WASHINGTON | NBC WITN
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585778
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="NC | WILMINGTON | NBC WECT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",NC | WILMINGTON | NBC WECT
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585780
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="NC | WINSTON-SALEM | NBC WXII" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",NC | WINSTON-SALEM | NBC WXII
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585781
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="ND | FARGO | NBC KVLY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",ND | FARGO | NBC KVLY
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585783
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="NE | SUPERIOR | NBC KSNB" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",NE | SUPERIOR | NBC KSNB
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585786
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="NV | RENO | NBC KRNV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",NV | RENO | NBC KRNV
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585804
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="NY | ALBANY | NBC WNYT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",NY | ALBANY | NBC WNYT
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585806
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="NY | BINGHAMTON | NBC WBGH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",NY | BINGHAMTON | NBC WBGH
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585807
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="NY | ELMIRA | NBC WETM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",NY | ELMIRA | NBC WETM
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585808
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="NY | PLATTSBURGH | NBC WPTZ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",NY | PLATTSBURGH | NBC WPTZ
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585809
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="NY | ROCHESTER | NBC WHEC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",NY | ROCHESTER | NBC WHEC
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585811
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="OH | CINCINNATI | NBC WLWT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",OH | CINCINNATI | NBC WLWT
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585814
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="OH | DAYTON | NBC WDTN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",OH | DAYTON | NBC WDTN
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585816
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="OH | LIMA | NBC WLIO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",OH | LIMA | NBC WLIO
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585817
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="OH | STEUBENVILLE | NBC WTOV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",OH | STEUBENVILLE | NBC WTOV
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585818
+#EXTINF:-1 tvg-id="" tvg-name="OH | TOLEDO | NBC WNWO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",OH | TOLEDO | NBC WNWO
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585821
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="OH | YOUNGSTOWN | NBC WFMJ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",OH | YOUNGSTOWN | NBC WFMJ
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585824
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="OK | ADA | NBC KTEN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",OK | ADA | NBC KTEN
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585825
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="OK | OKLAHOMA CITY | NBC KFOR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",OK | OKLAHOMA CITY | NBC KFOR
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585826
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="OK | TULSA | NBC KJRH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",OK | TULSA | NBC KJRH
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585828
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="OR | EUGENE | NBC KMTR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",OR | EUGENE | NBC KMTR
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585833
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="OR | MEDFORD | NBC KOBI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",OR | MEDFORD | NBC KOBI
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585835
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="PA | JOHNSTOWN | NBC WJAC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",PA | JOHNSTOWN | NBC WJAC
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585846
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="PA | LANCASTER | NBC WGAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",PA | LANCASTER | NBC WGAL
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585847
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="PA | PHILADELPHIA | NBC WCAU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",PA | PHILADELPHIA | NBC WCAU
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585851
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="SC | CHARLESTON | NBC WCBD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",SC | CHARLESTON | NBC WCBD
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585870
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="SC | GREENVILLE | NBC WYFF" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",SC | GREENVILLE | NBC WYFF
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585872
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="SC | MYRTLE BEACH | NBC WMBF" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",SC | MYRTLE BEACH | NBC WMBF
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585874
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="TN | CHATTANOOGA | NBC WRCB" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",TN | CHATTANOOGA | NBC WRCB
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585922
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="TN | KNOXVILLE | NBC WBIR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",TN | KNOXVILLE | NBC WBIR
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585925
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="TN | MEMPHIS | NBC WMC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",TN | MEMPHIS | NBC WMC
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585927
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="TN | NASHVILLE | NBC WSMV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",TN | NASHVILLE | NBC WSMV
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585929
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="TX | AMARILLO | NBC KAMR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",TX | AMARILLO | NBC KAMR
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585949
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="TX | BEAUMONT | NBC KBMT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",TX | BEAUMONT | NBC KBMT
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585950
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="TX | BROWNSVILLE | NBC KVEO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",TX | BROWNSVILLE | NBC KVEO
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585952
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="TX | CORPUS CHRISTI | NBC KRIS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",TX | CORPUS CHRISTI | NBC KRIS
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585954
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="TX | EL PASO | NBC KTSM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",TX | EL PASO | NBC KTSM
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585956
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="TX | JACKSONVILLE | NBC KETK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",TX | JACKSONVILLE | NBC KETK
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585958
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="TX | LAREDO | NBC KGNS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",TX | LAREDO | NBC KGNS
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585959
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="TX | LUBBOCK | NBC KCBD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",TX | LUBBOCK | NBC KCBD
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585961
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="TX | ODESSA | NBC KWES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",TX | ODESSA | NBC KWES
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585964
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="TX | SAN ANGELO | NBC KSAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",TX | SAN ANGELO | NBC KSAN
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585966
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="TX | SAN ANTONIO | NBC WOAI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",TX | SAN ANTONIO | NBC WOAI
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585968
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="TX | TEMPLE | NBC KCEN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",TX | TEMPLE | NBC KCEN
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585971
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="TX | TEXARKANA | NBC KTAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",TX | TEXARKANA | NBC KTAL
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585972
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="VA | CHARLOTTESVILLE | NBC WVIR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",VA | CHARLOTTESVILLE | NBC WVIR
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/586002
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="VA | PORTSMOUTH | NBC WAVY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",VA | PORTSMOUTH | NBC WAVY
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/586003
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="VA | RICHMOND | NBC WWBT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",VA | RICHMOND | NBC WWBT
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/586004
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="VA | ROANOKE | NBC WSLS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",VA | ROANOKE | NBC WSLS
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/586007
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="WA | YAKIMA | NBC KNDO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",WA | YAKIMA | NBC KNDO
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/586017
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="WI | GREEN BAY | NBC WGBA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",WI | GREEN BAY | NBC WGBA
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/586022
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="WI | LA CROSSE | NBC WEAU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",WI | LA CROSSE | NBC WEAU
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/586025
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="WI | MILWAUKEE | NBC WTMJ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",WI | MILWAUKEE | NBC WTMJ
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/586027
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="WI | SUPERIOR | NBC KBJR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",WI | SUPERIOR | NBC KBJR
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/586028
+#EXTINF:-1 tvg-id="NBCWSTR" tvg-name="WV | HUNTINGTON | NBC WSAZ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",WV | HUNTINGTON | NBC WSAZ
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/586039
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="WY | CASPER | NBC KCWY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",WY | CASPER | NBC KCWY
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/586040
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="WY | LANDER | NBC KGW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",WY | LANDER | NBC KGW
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/586041
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="CNBC WORLD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",CNBC WORLD
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585515
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="NBC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",NBC
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585733
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="NBC (KNBC-LOS ANGELES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",NBC (KNBC-LOS ANGELES
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585734
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="NBC (KNTVDT Â€“ SAN FRANCISCO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",NBC (KNTVDT Â€“ SAN FRANCISCO
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585735
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="NBC (KSLDT Â€“ SALT LAKE CITY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",NBC (KSLDT Â€“ SALT LAKE CITY
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585736
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="NBC (KUSA Â€“ DENVER" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",NBC (KUSA Â€“ DENVER
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585737
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="NBC (KXASDT Â€“ DALLAS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",NBC (KXASDT Â€“ DALLAS
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585738
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="NBC (WBAL- BALTIMORE MD)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",NBC (WBAL- BALTIMORE MD)
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585739
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="NBC (WBRE-WILKES BARRE-SCRANTON-HAZLETON)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",NBC (WBRE-WILKES BARRE-SCRANTON-HAZLETON)
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585740
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="NBC (WCNC- CHARLOTTE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",NBC (WCNC- CHARLOTTE
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585741
+#EXTINF:-1 tvg-id="SATRNNW" tvg-name="NBC (WDSU- NEW ORLEANS LA)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",NBC (WDSU- NEW ORLEANS LA)
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585742
+#EXTINF:-1 tvg-id="SATRNNE" tvg-name="NBC (WISDT- COLUMBIA SC)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",NBC (WISDT- COLUMBIA SC)
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585743
+#EXTINF:-1 tvg-id="PTVNBC" tvg-name="NBC (WMAQDT - CHICAGO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",NBC (WMAQDT - CHICAGO
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585744
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="NBC (WOWT- OMAHA NE)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",NBC (WOWT- OMAHA NE)
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585745
+#EXTINF:-1 tvg-id="SATRNNE" tvg-name="NBC (WRCDT Â€“ WASHINGTON" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",NBC (WRCDT Â€“ WASHINGTON
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585746
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="NBC (WTVJDT - MIAMI/FORT LAUDERDALE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",NBC (WTVJDT - MIAMI/FORT LAUDERDALE
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585747
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="NBC 12" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",NBC 12
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585748
+#EXTINF:-1 tvg-id="PTVNBC" tvg-name="NBC 12 NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",NBC 12 NEWS
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585749
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="NBC 15" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",NBC 15
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585750
+#EXTINF:-1 tvg-id="NBCCDT" tvg-name="NBC C" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",NBC C
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585751
+#EXTINF:-1 tvg-id="" tvg-name="NBC CHEYENNE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",NBC CHEYENNE
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585752
+#EXTINF:-1 tvg-id="NBCCDT" tvg-name="NBC HOUSTON TX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",NBC HOUSTON TX
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585753
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="NBC KHNL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",NBC KHNL
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585754
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="NBC LAS VEGAS NV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",NBC LAS VEGAS NV
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585755
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="NBC SACRAMENTO-STOCKTON-MODESTO CA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",NBC SACRAMENTO-STOCKTON-MODESTO CA
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585756
+#EXTINF:-1 tvg-id="" tvg-name="NBC SPORTS BAY AREA" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWWut4H7YcTxkVmlspnABM0ExnB0u7jjqGs1t43MxOqWa77_fOyiZUQXU5aX1ltgYl4.png" group-title="⚪ - USA SPORTS",NBC SPORTS BAY AREA
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585757
+#EXTINF:-1 tvg-id="" tvg-name="NBC SPORTS BAY AREA PLUS" tvg-logo="https://dnslivetv.online:443/images/3QaJnGXFi9iWhiUH6MQiDbM--UXA6L9Xp4g1mAMvJ1FyzDg3M9Uevmo9RayShfbT3_cBpveh86sfoMAlg0i47NlfDfsIBiM1dP6-84UZmfRXSk9lycY5HGrcxGlLbLM6.png" group-title="⚪ - USA SPORTS",NBC SPORTS BAY AREA PLUS
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585758
+#EXTINF:-1 tvg-id="" tvg-name="NBC SPORTS BOSTON" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWViL07s5SzmfV_3vRsNhGfFQH6NTXo76_fm-rgiiqkdS63_iWB9PeuEYF1fEHughkc.png" group-title="⚪ - USA SPORTS",NBC SPORTS BOSTON
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585759
+#EXTINF:-1 tvg-id="" tvg-name="NBC SPORTS CALIFORNIA" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWUKo49zx_aanmT3t0Rh-UwA0Kc9OabvRKRiNXv1dNGTLgIREHVLc-WVIo40qfpHvjQ.png" group-title="⚪ - USA SPORTS",NBC SPORTS CALIFORNIA
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585760
+#EXTINF:-1 tvg-id="" tvg-name="NBC SPORTS CHICAGO" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjRSIZCf_RBhKl2AyPyD47Hv9dihticy-BP0PP4Ajmssc6m20BofdqgoseXbQvQBakraxIpUsXNO_ZwJSAKXfZcIYRZlMTvrAq4q6VuAWA4z8.png" group-title="⚪ - USA SPORTS",NBC SPORTS CHICAGO
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585761
+#EXTINF:-1 tvg-id="" tvg-name="NBC SPORTS CHICAGO PLUS" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjRSIZCf_RBhKl2AyPyD47Hv9dihticy-BP0PP4Ajmssc6m20BofdqgoseXbQvQBakraxIpUsXNO_ZwJSAKXfZcIYRZlMTvrAq4q6VuAWA4z8.png" group-title="⚪ - USA SPORTS",NBC SPORTS CHICAGO PLUS
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585762
+#EXTINF:-1 tvg-id="" tvg-name="NBC SPORTS PHILLY" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWX3dO1LrqBN1k1_iMCELtN0r5XJgPdmW06Az4PS3hNijZFGekxBA4IxSy_vY_jAlH8.png" group-title="⚪ - USA SPORTS",NBC SPORTS PHILLY
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585763
+#EXTINF:-1 tvg-id="" tvg-name="NBC SPORTS PHILLY PLUS" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWX3dO1LrqBN1k1_iMCELtN0r5XJgPdmW06Az4PS3hNijZFGekxBA4IxSy_vY_jAlH8.png" group-title="⚪ - USA SPORTS",NBC SPORTS PHILLY PLUS
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585764
+#EXTINF:-1 tvg-id="" tvg-name="NBC SPORTS WASHINGTON" tvg-logo="https://dnslivetv.online:443/images/3QaJnGXFi9iWhiUH6MQiDbM--UXA6L9Xp4g1mAMvJ1FyzDg3M9Uevmo9RayShfbT3_cBpveh86sfoMAlg0i47NlfDfsIBiM1dP6-84UZmfRXSk9lycY5HGrcxGlLbLM6.png" group-title="⚪ - USA SPORTS",NBC SPORTS WASHINGTON
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585765
+#EXTINF:-1 tvg-id="" tvg-name="NBC SPORTS WASHINGTON PLUS" tvg-logo="https://dnslivetv.online:443/images/3QaJnGXFi9iWhiUH6MQiDbM--UXA6L9Xp4g1mAMvJ1FyzDg3M9Uevmo9RayShfbT3_cBpveh86sfoMAlg0i47NlfDfsIBiM1dP6-84UZmfRXSk9lycY5HGrcxGlLbLM6.png" group-title="⚪ - USA SPORTS",NBC SPORTS WASHINGTON PLUS
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585766
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="NBC UNIVERSO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",NBC UNIVERSO
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585767
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="NBC WGRZ-BUFFALO NY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",NBC WGRZ-BUFFALO NY
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585769
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="NBC WSFA MONTGOMERY SELMA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",NBC WSFA MONTGOMERY SELMA
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585770
+#EXTINF:-1 tvg-id="NBCESHD" tvg-name="NBCSN ALT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv-F90i-vqQSTQR4h4EH8qzCwo80cc_UqUAW62teWZUb9u7aJoLFpM-JgotApe_eRhbs&usqp=CAU" group-title="⚪ - USA NBC",NBCSN ALT
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585771
+#EXTINF:-1 tvg-id="" tvg-name="AL | BIRMINGHAM | CBS WIAT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",AL | BIRMINGHAM | CBS WIAT
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585411
+#EXTINF:-1 tvg-id="" tvg-name="AL | MOBILE | CBS WKRG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",AL | MOBILE | CBS WKRG
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585418
+#EXTINF:-1 tvg-id="" tvg-name="AR | LITTLE ROCK | CBS KTHV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",AR | LITTLE ROCK | CBS KTHV
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585427
+#EXTINF:-1 tvg-id="" tvg-name="AZ | PHOENIX | CBS KPHO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",AZ | PHOENIX | CBS KPHO
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585433
+#EXTINF:-1 tvg-id="" tvg-name="AZ | TUCSON | CBS KOLD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",AZ | TUCSON | CBS KOLD
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585434
+#EXTINF:-1 tvg-id="" tvg-name="CA | BAKERSFIELD | CBS KBAK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",CA | BAKERSFIELD | CBS KBAK
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585460
+#EXTINF:-1 tvg-id="" tvg-name="CA | FRESNO | CBS KGPE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",CA | FRESNO | CBS KGPE
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585464
+#EXTINF:-1 tvg-id="" tvg-name="CA | MONTEREY | CBS KION" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",CA | MONTEREY | CBS KION
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585469
+#EXTINF:-1 tvg-id="" tvg-name="CA | SAN DIEGO | CBS KFMB" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",CA | SAN DIEGO | CBS KFMB
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585474
+#EXTINF:-1 tvg-id="" tvg-name="CA | STOCKTON | CBS KOVR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",CA | STOCKTON | CBS KOVR
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585479
+#EXTINF:-1 tvg-id="" tvg-name="CO | COLORADO SPRINGS | CBS KKTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",CO | COLORADO SPRINGS | CBS KKTV
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585516
+#EXTINF:-1 tvg-id="" tvg-name="CT | HARTFORD | CBS WFSB" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",CT | HARTFORD | CBS WFSB
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585526
+#EXTINF:-1 tvg-id="" tvg-name="FL | FORT MYERS | CBS WINK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",FL | FORT MYERS | CBS WINK
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585542
+#EXTINF:-1 tvg-id="" tvg-name="FL | JACKSONVILLE | CBS WJAX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",FL | JACKSONVILLE | CBS WJAX
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585545
+#EXTINF:-1 tvg-id="" tvg-name="FL | ORLANDO | CBS WKMG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",FL | ORLANDO | CBS WKMG
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585550
+#EXTINF:-1 tvg-id="" tvg-name="FL | ST. PETERSBURG | CBS WTSP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",FL | ST. PETERSBURG | CBS WTSP
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585553
+#EXTINF:-1 tvg-id="" tvg-name="FL | WEST PALM BEACH | CBS WPEC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",FL | WEST PALM BEACH | CBS WPEC
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585558
+#EXTINF:-1 tvg-id="" tvg-name="GA | AUGUSTA | CBS WRDW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",GA | AUGUSTA | CBS WRDW
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585598
+#EXTINF:-1 tvg-id="" tvg-name="GA | MACON | CBS WMAZ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",GA | MACON | CBS WMAZ
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585603
+#EXTINF:-1 tvg-id="" tvg-name="GA | THOMASVILLE | CBS WCTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",GA | THOMASVILLE | CBS WCTV
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585605
+#EXTINF:-1 tvg-id="" tvg-name="ID | BOISE | CBS KBOI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",ID | BOISE | CBS KBOI
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585621
+#EXTINF:-1 tvg-id="" tvg-name="IN | FORT WAYNE | CBS WANE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",IN | FORT WAYNE | CBS WANE
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585632
+#EXTINF:-1 tvg-id="" tvg-name="KS | HUTCHINSON | CBS KWCH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",KS | HUTCHINSON | CBS KWCH
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585649
+#EXTINF:-1 tvg-id="" tvg-name="KY | LEXINGTON | CBS WKYT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",KY | LEXINGTON | CBS WKYT
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585655
+#EXTINF:-1 tvg-id="" tvg-name="KY | LOUISVILLE | CBS WLKY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",KY | LOUISVILLE | CBS WLKY
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585657
+#EXTINF:-1 tvg-id="" tvg-name="LA | BATON ROUGE | CBS WAFB" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",LA | BATON ROUGE | CBS WAFB
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585666
+#EXTINF:-1 tvg-id="" tvg-name="LA | LAFAYETTE | CBS KLFY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",LA | LAFAYETTE | CBS KLFY
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585669
+#EXTINF:-1 tvg-id="" tvg-name="LA | SHREVEPORT | CBS KSLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",LA | SHREVEPORT | CBS KSLA
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585673
+#EXTINF:-1 tvg-id="" tvg-name="MA | SPRINGFIELD | CBS WSHM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",MA | SPRINGFIELD | CBS WSHM
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585678
+#EXTINF:-1 tvg-id="" tvg-name="ME | PORTLAND | CBS WGME" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",ME | PORTLAND | CBS WGME
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585683
+#EXTINF:-1 tvg-id="" tvg-name="MI | BAY CITY | CBS WNEM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",MI | BAY CITY | CBS WNEM
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585686
+#EXTINF:-1 tvg-id="" tvg-name="MI | CADILLAC | CBS WWTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",MI | CADILLAC | CBS WWTV
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585687
+#EXTINF:-1 tvg-id="" tvg-name="MI | DETROIT | CBS WHP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",MI | DETROIT | CBS WHP
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585688
+#EXTINF:-1 tvg-id="CBSESHD" tvg-name="MI | DETROIT | CBS WWJ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",MI | DETROIT | CBS WWJ
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585689
+#EXTINF:-1 tvg-id="CBSESHD" tvg-name="MI | KALAMAZOO | CBS WWMT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",MI | KALAMAZOO | CBS WWMT
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585695
+#EXTINF:-1 tvg-id="" tvg-name="MI | LANSING | CBS WLNS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",MI | LANSING | CBS WLNS
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585696
+#EXTINF:-1 tvg-id="" tvg-name="MN | MINNEAPOLIS | CBS WCCO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",MN | MINNEAPOLIS | CBS WCCO
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585701
+#EXTINF:-1 tvg-id="CBSESHD" tvg-name="MO | CAPE GIRARDEAU | CBS KFVS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",MO | CAPE GIRARDEAU | CBS KFVS
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585705
+#EXTINF:-1 tvg-id="CBSESHD" tvg-name="MO | KANSAS CITY | CBS KCTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",MO | KANSAS CITY | CBS KCTV
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585706
+#EXTINF:-1 tvg-id="CBSESHD" tvg-name="MO | SPRINGFIELD | CBS KOLR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",MO | SPRINGFIELD | CBS KOLR
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585710
+#EXTINF:-1 tvg-id="CBSESHD" tvg-name="MS | JACKSON | CBS WJTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",MS | JACKSON | CBS WJTV
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585714
+#EXTINF:-1 tvg-id="" tvg-name="NC | GOLDSBORO | CBS WNCN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",NC | GOLDSBORO | CBS WNCN
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585772
+#EXTINF:-1 tvg-id="CBSESHD" tvg-name="NC | GREENSBORO | CBS WFMY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",NC | GREENSBORO | CBS WFMY
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585773
+#EXTINF:-1 tvg-id="" tvg-name="NC | GREENVILLE | CBS WNCT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",NC | GREENVILLE | CBS WNCT
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585774
+#EXTINF:-1 tvg-id="" tvg-name="NC | WILMINGTON | CBS WWAY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",NC | WILMINGTON | CBS WWAY
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585779
+#EXTINF:-1 tvg-id="CBSESHD" tvg-name="NE | LINCOLN | CBS KOLN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",NE | LINCOLN | CBS KOLN
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585784
+#EXTINF:-1 tvg-id="CBSESHD" tvg-name="NM | ALBUQUERQUE | CBS KRQE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",NM | ALBUQUERQUE | CBS KRQE
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585797
+#EXTINF:-1 tvg-id="" tvg-name="NV | RENO | CBS KTVN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAUhttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",NV | RENO | CBS KTVN
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585803
+#EXTINF:-1 tvg-id="" tvg-name="NY | ROCHESTER | CBS WROC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",NY | ROCHESTER | CBS WROC
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585810
+#EXTINF:-1 tvg-id="" tvg-name="NY | SCHENECTADY | CBS WRGB" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",NY | SCHENECTADY | CBS WRGB
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585812
+#EXTINF:-1 tvg-id="" tvg-name="OH | CINCINNATI | CBS WKRC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",OH | CINCINNATI | CBS WKRC
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585813
+#EXTINF:-1 tvg-id="" tvg-name="OH | DAYTON | CBS WHIO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",OH | DAYTON | CBS WHIO
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585815
+#EXTINF:-1 tvg-id="" tvg-name="OH | TOLEDO | CBS WTOL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",OH | TOLEDO | CBS WTOL
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585819
+#EXTINF:-1 tvg-id="" tvg-name="OH | YOUNGSTOWN | CBS WKBN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",OH | YOUNGSTOWN | CBS WKBN
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585822
+#EXTINF:-1 tvg-id="CBSESHD" tvg-name="OK | TULSA | CBS KOTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",OK | TULSA | CBS KOTV
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585827
+#EXTINF:-1 tvg-id="" tvg-name="OR | EUGENE | CBS KVAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",OR | EUGENE | CBS KVAL
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585831
+#EXTINF:-1 tvg-id="CBSESHD" tvg-name="OR | PORTLAND | CBS KOIN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",OR | PORTLAND | CBS KOIN
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585837
+#EXTINF:-1 tvg-id="CBSESHD" tvg-name="PA | ALTOONA | CBS WTAJ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",PA | ALTOONA | CBS WTAJ
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585843
+#EXTINF:-1 tvg-id="" tvg-name="PA | PHILADELPHIA | CBS KYW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",PA | PHILADELPHIA | CBS KYW
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585848
+#EXTINF:-1 tvg-id="CBSESHD" tvg-name="SC | CHARLESTON | CBS WCSC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",SC | CHARLESTON | CBS WCSC
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585868
+#EXTINF:-1 tvg-id="CBSESHD" tvg-name="SC | FLORENCE | CBS WBTW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",SC | FLORENCE | CBS WBTW
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585871
+#EXTINF:-1 tvg-id="CBSESHD" tvg-name="TN | CHATTANOOGA | CBS WDEF" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",TN | CHATTANOOGA | CBS WDEF
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585921
+#EXTINF:-1 tvg-id="" tvg-name="TN | KNOXVILLE | CBS WVLT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",TN | KNOXVILLE | CBS WVLT
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585923
+#EXTINF:-1 tvg-id="" tvg-name="TN | NASHVILLE | CBS WTVF" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",TN | NASHVILLE | CBS WTVF
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585928
+#EXTINF:-1 tvg-id="CBSESHD" tvg-name="TX | CORPUS CHRISTI | CBS KZTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",TX | CORPUS CHRISTI | CBS KZTV
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585953
+#EXTINF:-1 tvg-id="CBSESHD" tvg-name="TX | EL PASO | CBS KDBC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",TX | EL PASO | CBS KDBC
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585955
+#EXTINF:-1 tvg-id="" tvg-name="TX | NACOGDOCHES | CBS KYTX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",TX | NACOGDOCHES | CBS KYTX
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585963
+#EXTINF:-1 tvg-id="CBSESHD" tvg-name="TX | SAN ANTONIO | CBS KENS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",TX | SAN ANTONIO | CBS KENS
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585967
+#EXTINF:-1 tvg-id="CBSESHD" tvg-name="TX | WACO | CBS KWTX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",TX | WACO | CBS KWTX
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585973
+#EXTINF:-1 tvg-id="CBSESHD" tvg-name="VA | ROANOKE | CBS WDBJ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",VA | ROANOKE | CBS WDBJ
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/586005
+#EXTINF:-1 tvg-id="CBSESHD" tvg-name="VT | BURLINGTON | CBS WCAX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",VT | BURLINGTON | CBS WCAX
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/586011
+#EXTINF:-1 tvg-id="CBSESHD" tvg-name="WA | SPOKANE | CBS KREM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",WA | SPOKANE | CBS KREM
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/586013
+#EXTINF:-1 tvg-id="CBSESHD" tvg-name="WA | YAKIMA | CBS KIMA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",WA | YAKIMA | CBS KIMA
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/586015
+#EXTINF:-1 tvg-id="CBSESHD" tvg-name="WI | GREEN BAY | CBS WFRV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",WI | GREEN BAY | CBS WFRV
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/586021
+#EXTINF:-1 tvg-id="LACRSSD" tvg-name="WI | LA CROSSE | CBS WKBT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",WI | LA CROSSE | CBS WKBT
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/586023
+#EXTINF:-1 tvg-id="MLW23" tvg-name="WI | MILWAUKEE | CBS WDJT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",WI | MILWAUKEE | CBS WDJT
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/586026
+#EXTINF:-1 tvg-id="HUNTLLA" tvg-name="WV | HUNTINGTON | CBS WOWK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",WV | HUNTINGTON | CBS WOWK
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/586038
+#EXTINF:-1 tvg-id="CBSESHD" tvg-name="WY | LARAMIE | CBS KXJB" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",WY | LARAMIE | CBS KXJB
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/586042
+#EXTINF:-1 tvg-id="" tvg-name="CBS (KCAL-LOS ANGELES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",CBS (KCAL-LOS ANGELES
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585481
+#EXTINF:-1 tvg-id="" tvg-name="CBS (KCBS-TV Â€“ LOS ANGELES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",CBS (KCBS-TV Â€“ LOS ANGELES
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585482
+#EXTINF:-1 tvg-id="" tvg-name="CBS (KCNC Â€“ DENVER" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",CBS (KCNC Â€“ DENVER
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585483
+#EXTINF:-1 tvg-id="" tvg-name="CBS (KLAS-LAS VEGAS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",CBS (KLAS-LAS VEGAS
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585484
+#EXTINF:-1 tvg-id="" tvg-name="CBS (KMOV Â€“ ST. LOUIS MO)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",CBS (KMOV Â€“ ST. LOUIS MO)
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585485
+#EXTINF:-1 tvg-id="" tvg-name="CBS (KPIX Â€“ SAN FRANCISCO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",CBS (KPIX Â€“ SAN FRANCISCO
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585487
+#EXTINF:-1 tvg-id="" tvg-name="CBS (KTVT Â€“ DALLAS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",CBS (KTVT Â€“ DALLAS
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585488
+#EXTINF:-1 tvg-id="" tvg-name="CBS (KTXA-DALLAS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",CBS (KTXA-DALLAS
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585489
+#EXTINF:-1 tvg-id="" tvg-name="CBS (KUTV-SALT LAKE CITY/ST. GEORGE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",CBS (KUTV-SALT LAKE CITY/ST. GEORGE
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585490
+#EXTINF:-1 tvg-id="" tvg-name="CBS (KWTV-DT Â€“ OKLAHOMA CITY OK)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",CBS (KWTV-DT Â€“ OKLAHOMA CITY OK)
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585491
+#EXTINF:-1 tvg-id="" tvg-name="CBS (WBBM Â€“ CHICAGO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",CBS (WBBM Â€“ CHICAGO
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585492
+#EXTINF:-1 tvg-id="" tvg-name="CBS (WBTV Â€“ CHARLOTTE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",CBS (WBTV Â€“ CHARLOTTE
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585493
+#EXTINF:-1 tvg-id="" tvg-name="CBS (WFOR-TV Â€“ MIAMI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",CBS (WFOR-TV Â€“ MIAMI
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585494
+#EXTINF:-1 tvg-id="" tvg-name="CBS (WIVB-BUFFALO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",CBS (WIVB-BUFFALO
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585495
+#EXTINF:-1 tvg-id="" tvg-name="CBS (WJZ Â€“ BALTIMORE MD)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",CBS (WJZ Â€“ BALTIMORE MD)
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585496
+#EXTINF:-1 tvg-id="" tvg-name="CBS (WLTX Â€“ COLUMBIA)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",CBS (WLTX Â€“ COLUMBIA)
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585497
+#EXTINF:-1 tvg-id="" tvg-name="CBS (WSPA-GREENVILLE - ASHVILLE SC)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",CBS (WSPA-GREENVILLE - ASHVILLE SC)
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585498
+#EXTINF:-1 tvg-id="" tvg-name="CBS (WUSADT Â€“ WASHINGTON" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",CBS (WUSADT Â€“ WASHINGTON
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585499
+#EXTINF:-1 tvg-id="" tvg-name="CBS (WWL Â€“ NEW ORLEANS LA)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",CBS (WWL Â€“ NEW ORLEANS LA)
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585500
+#EXTINF:-1 tvg-id="" tvg-name="CBS (WYOU-WILKES BARRE-SCRANTON PA)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",CBS (WYOU-WILKES BARRE-SCRANTON PA)
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585501
+#EXTINF:-1 tvg-id="" tvg-name="CBS 2 New York" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",CBS 2 New York
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585502
+#EXTINF:-1 tvg-id="" tvg-name="CBS BOSTON MA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",CBS BOSTON MA
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585503
+#EXTINF:-1 tvg-id="" tvg-name="CBS HOUSTON TX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",CBS HOUSTON TX
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585504
+#EXTINF:-1 tvg-id="" tvg-name="CBS KGMB" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",CBS KGMB
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585505
+#EXTINF:-1 tvg-id="" tvg-name="CBS MADISON" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",CBS MADISON
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585506
+#EXTINF:-1 tvg-id="" tvg-name="CBS WAKA DT MONTGOMERY SELMA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",CBS WAKA DT MONTGOMERY SELMA
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585507
+#EXTINF:-1 tvg-id="" tvg-name="CBSSN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iK_SCv-IEQ6KG9aJe_vlybp4QF1KmsISsvxfh0xJs-kxAEXql1uJiLxbUWxmHe28K9w&usqp=CAU" group-title="⚪ - USA CBS",CBSSN
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585508
+#EXTINF:-1 tvg-id="FOXI" tvg-name="AL | BIRMINGHAM | FOX WBRC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnblwBZLKKf_YUF7xpJFgBvYKahtZWBtqLVKt_o_5--MYDRD8uobMc034JpMuZ-gB3GDc&usqp=CAU" group-title="⚪ - USA FOX",AL | BIRMINGHAM | FOX WBRC
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585412
+#EXTINF:-1 tvg-id="FOXI" tvg-name="AL | DOTHAN | FOX NET" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnblwBZLKKf_YUF7xpJFgBvYKahtZWBtqLVKt_o_5--MYDRD8uobMc034JpMuZ-gB3GDc&usqp=CAU" group-title="⚪ - USA FOX",AL | DOTHAN | FOX NET
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585414
+#EXTINF:-1 tvg-id="FOXI" tvg-name="AL | HUNTSVILLE | FOX WZDX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnblwBZLKKf_YUF7xpJFgBvYKahtZWBtqLVKt_o_5--MYDRD8uobMc034JpMuZ-gB3GDc&usqp=CAU" group-title="⚪ - USA FOX",AL | HUNTSVILLE | FOX WZDX
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585416
+#EXTINF:-1 tvg-id="FOXI" tvg-name="AL | MOBILE | FOX WALA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnblwBZLKKf_YUF7xpJFgBvYKahtZWBtqLVKt_o_5--MYDRD8uobMc034JpMuZ-gB3GDc&usqp=CAU" group-title="⚪ - USA FOX",AL | MOBILE | FOX WALA
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585419
+#EXTINF:-1 tvg-id="FOXI" tvg-name="AR | LITTLE ROCK | FOX KLRT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnblwBZLKKf_YUF7xpJFgBvYKahtZWBtqLVKt_o_5--MYDRD8uobMc034JpMuZ-gB3GDc&usqp=CAU" group-title="⚪ - USA FOX",AR | LITTLE ROCK | FOX KLRT
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585428
+#EXTINF:-1 tvg-id="FOXI" tvg-name="AZ | TUCSON | FOX KMSB" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnblwBZLKKf_YUF7xpJFgBvYKahtZWBtqLVKt_o_5--MYDRD8uobMc034JpMuZ-gB3GDc&usqp=CAU" group-title="⚪ - USA FOX",AZ | TUCSON | FOX KMSB
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585435
+#EXTINF:-1 tvg-id="" tvg-name="CA | BAKERSFIELD | FOX KBFX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnblwBZLKKf_YUF7xpJFgBvYKahtZWBtqLVKt_o_5--MYDRD8uobMc034JpMuZ-gB3GDc&usqp=CAU" group-title="⚪ - USA FOX",CA | BAKERSFIELD | FOX KBFX
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585461
+#EXTINF:-1 tvg-id="FOXI" tvg-name="CA | SAN DIEGO | FOX KSWB" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnblwBZLKKf_YUF7xpJFgBvYKahtZWBtqLVKt_o_5--MYDRD8uobMc034JpMuZ-gB3GDc&usqp=CAU" group-title="⚪ - USA FOX",CA | SAN DIEGO | FOX KSWB
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585475
+#EXTINF:-1 tvg-id="FOXI" tvg-name="CA | SAN LUIS OBISPO | FOX KKFX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnblwBZLKKf_YUF7xpJFgBvYKahtZWBtqLVKt_o_5--MYDRD8uobMc034JpMuZ-gB3GDc&usqp=CAU" group-title="⚪ - USA FOX",CA | SAN LUIS OBISPO | FOX KKFX
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585477
+#EXTINF:-1 tvg-id="FOXI" tvg-name="CO | COLORADO SPRINGS | FOX KXRM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnblwBZLKKf_YUF7xpJFgBvYKahtZWBtqLVKt_o_5--MYDRD8uobMc034JpMuZ-gB3GDc&usqp=CAU" group-title="⚪ - USA FOX",CO | COLORADO SPRINGS | FOX KXRM
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585517
+#EXTINF:-1 tvg-id="FOXCAE" tvg-name="FL | CAPE CORAL | FOX WFTX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnblwBZLKKf_YUF7xpJFgBvYKahtZWBtqLVKt_o_5--MYDRD8uobMc034JpMuZ-gB3GDc&usqp=CAU" group-title="⚪ - USA FOX",FL | CAPE CORAL | FOX WFTX
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585540
+#EXTINF:-1 tvg-id="FOXI" tvg-name="FL | JACKSONVILLE | FOX WFOX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnblwBZLKKf_YUF7xpJFgBvYKahtZWBtqLVKt_o_5--MYDRD8uobMc034JpMuZ-gB3GDc&usqp=CAU" group-title="⚪ - USA FOX",FL | JACKSONVILLE | FOX WFOX
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585546
+#EXTINF:-1 tvg-id="FOXI" tvg-name="FL | OCALA | FOX WOGX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnblwBZLKKf_YUF7xpJFgBvYKahtZWBtqLVKt_o_5--MYDRD8uobMc034JpMuZ-gB3GDc&usqp=CAU" group-title="⚪ - USA FOX",FL | OCALA | FOX WOGX
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585549
+#EXTINF:-1 tvg-id="FOXI" tvg-name="FL | ORLANDO | FOX WOFL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnblwBZLKKf_YUF7xpJFgBvYKahtZWBtqLVKt_o_5--MYDRD8uobMc034JpMuZ-gB3GDc&usqp=CAU" group-title="⚪ - USA FOX",FL | ORLANDO | FOX WOFL
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585551
+#EXTINF:-1 tvg-id="" tvg-name="FL | TAMPA | FOX WTVT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnblwBZLKKf_YUF7xpJFgBvYKahtZWBtqLVKt_o_5--MYDRD8uobMc034JpMuZ-gB3GDc&usqp=CAU" group-title="⚪ - USA FOX",FL | TAMPA | FOX WTVT
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585556
+#EXTINF:-1 tvg-id="FOXI" tvg-name="FL | WEST PALM BEACH | FOX WFLX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnblwBZLKKf_YUF7xpJFgBvYKahtZWBtqLVKt_o_5--MYDRD8uobMc034JpMuZ-gB3GDc&usqp=CAU" group-title="⚪ - USA FOX",FL | WEST PALM BEACH | FOX WFLX
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585559
+#EXTINF:-1 tvg-id="FOXI" tvg-name="FOX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnblwBZLKKf_YUF7xpJFgBvYKahtZWBtqLVKt_o_5--MYDRD8uobMc034JpMuZ-gB3GDc&usqp=CAU" group-title="⚪ - USA FOX",FOX
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585564
+#EXTINF:-1 tvg-id="FOXI" tvg-name="FOX (KDFW - DALLAS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnblwBZLKKf_YUF7xpJFgBvYKahtZWBtqLVKt_o_5--MYDRD8uobMc034JpMuZ-gB3GDc&usqp=CAU" group-title="⚪ - USA FOX",FOX (KDFW - DALLAS
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585565
+#EXTINF:-1 tvg-id="FOXI" tvg-name="FOX (KDVR-TV Â€“ DENVER" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnblwBZLKKf_YUF7xpJFgBvYKahtZWBtqLVKt_o_5--MYDRD8uobMc034JpMuZ-gB3GDc&usqp=CAU" group-title="⚪ - USA FOX",FOX (KDVR-TV Â€“ DENVER
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585566
+#EXTINF:-1 tvg-id="FOXI" tvg-name="FOX (KOKH-OKLAHOMA CITY OK)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnblwBZLKKf_YUF7xpJFgBvYKahtZWBtqLVKt_o_5--MYDRD8uobMc034JpMuZ-gB3GDc&usqp=CAU" group-title="⚪ - USA FOX",FOX (KOKH-OKLAHOMA CITY OK)
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585567
+#EXTINF:-1 tvg-id="FOXI" tvg-name="FOX (KPTM-OMAHA NE)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnblwBZLKKf_YUF7xpJFgBvYKahtZWBtqLVKt_o_5--MYDRD8uobMc034JpMuZ-gB3GDc&usqp=CAU" group-title="⚪ - USA FOX",FOX (KPTM-OMAHA NE)
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585568
+#EXTINF:-1 tvg-id="FOXI" tvg-name="FOX (KSAZ Â€“ PHOENIX AZ)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnblwBZLKKf_YUF7xpJFgBvYKahtZWBtqLVKt_o_5--MYDRD8uobMc034JpMuZ-gB3GDc&usqp=CAU" group-title="⚪ - USA FOX",FOX (KSAZ Â€“ PHOENIX AZ)
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585569
+#EXTINF:-1 tvg-id="FOXI" tvg-name="FOX (KTTV - LOS ANGELES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnblwBZLKKf_YUF7xpJFgBvYKahtZWBtqLVKt_o_5--MYDRD8uobMc034JpMuZ-gB3GDc&usqp=CAU" group-title="⚪ - USA FOX",FOX (KTTV - LOS ANGELES
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585570
+#EXTINF:-1 tvg-id="FOXI" tvg-name="FOX (KTVI-TV Â€“ ST. LOUIS MO)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnblwBZLKKf_YUF7xpJFgBvYKahtZWBtqLVKt_o_5--MYDRD8uobMc034JpMuZ-gB3GDc&usqp=CAU" group-title="⚪ - USA FOX",FOX (KTVI-TV Â€“ ST. LOUIS MO)
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585571
+#EXTINF:-1 tvg-id="FOXI" tvg-name="FOX (KTVU - SAN FRANCISCO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnblwBZLKKf_YUF7xpJFgBvYKahtZWBtqLVKt_o_5--MYDRD8uobMc034JpMuZ-gB3GDc&usqp=CAU" group-title="⚪ - USA FOX",FOX (KTVU - SAN FRANCISCO
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585572
+#EXTINF:-1 tvg-id="FOXI" tvg-name="FOX (KVVU-LAS VEGAS NV)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnblwBZLKKf_YUF7xpJFgBvYKahtZWBtqLVKt_o_5--MYDRD8uobMc034JpMuZ-gB3GDc&usqp=CAU" group-title="⚪ - USA FOX",FOX (KVVU-LAS VEGAS NV)
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585573
+#EXTINF:-1 tvg-id="FOXI" tvg-name="FOX (WACH-COLUMBIA SC)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnblwBZLKKf_YUF7xpJFgBvYKahtZWBtqLVKt_o_5--MYDRD8uobMc034JpMuZ-gB3GDc&usqp=CAU" group-title="⚪ - USA FOX",FOX (WACH-COLUMBIA SC)
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585574
+#EXTINF:-1 tvg-id="FOXI" tvg-name="FOX (WAGA - ATLANTA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnblwBZLKKf_YUF7xpJFgBvYKahtZWBtqLVKt_o_5--MYDRD8uobMc034JpMuZ-gB3GDc&usqp=CAU" group-title="⚪ - USA FOX",FOX (WAGA - ATLANTA
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585575
+#EXTINF:-1 tvg-id="FOXI" tvg-name="FOX (WBFF-BALTIMORE MD)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnblwBZLKKf_YUF7xpJFgBvYKahtZWBtqLVKt_o_5--MYDRD8uobMc034JpMuZ-gB3GDc&usqp=CAU" group-title="⚪ - USA FOX",FOX (WBFF-BALTIMORE MD)
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585576
+#EXTINF:-1 tvg-id="FOXI" tvg-name="FOX (WFLD - CHICAGO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnblwBZLKKf_YUF7xpJFgBvYKahtZWBtqLVKt_o_5--MYDRD8uobMc034JpMuZ-gB3GDc&usqp=CAU" group-title="⚪ - USA FOX",FOX (WFLD - CHICAGO
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585577
+#EXTINF:-1 tvg-id="FOXI" tvg-name="FOX (WHNS-GREENVILLE SC)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnblwBZLKKf_YUF7xpJFgBvYKahtZWBtqLVKt_o_5--MYDRD8uobMc034JpMuZ-gB3GDc&usqp=CAU" group-title="⚪ - USA FOX",FOX (WHNS-GREENVILLE SC)
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585578
+#EXTINF:-1 tvg-id="FOXI" tvg-name="FOX (WJZY - CHARLOTTE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnblwBZLKKf_YUF7xpJFgBvYKahtZWBtqLVKt_o_5--MYDRD8uobMc034JpMuZ-gB3GDc&usqp=CAU" group-title="⚪ - USA FOX",FOX (WJZY - CHARLOTTE
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585579
+#EXTINF:-1 tvg-id="FOXI" tvg-name="FOX (WOLF-WILKES-BARRE PA)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnblwBZLKKf_YUF7xpJFgBvYKahtZWBtqLVKt_o_5--MYDRD8uobMc034JpMuZ-gB3GDc&usqp=CAU" group-title="⚪ - USA FOX",FOX (WOLF-WILKES-BARRE PA)
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585580
+#EXTINF:-1 tvg-id="FOXI" tvg-name="FOX (WSVN-TV Â€“ MIAMI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnblwBZLKKf_YUF7xpJFgBvYKahtZWBtqLVKt_o_5--MYDRD8uobMc034JpMuZ-gB3GDc&usqp=CAU" group-title="⚪ - USA FOX",FOX (WSVN-TV Â€“ MIAMI
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585581
+#EXTINF:-1 tvg-id="FOXI" tvg-name="FOX (WTTG - WASHINGTON D.C.)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnblwBZLKKf_YUF7xpJFgBvYKahtZWBtqLVKt_o_5--MYDRD8uobMc034JpMuZ-gB3GDc&usqp=CAU" group-title="⚪ - USA FOX",FOX (WTTG - WASHINGTON D.C.)
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585582
+#EXTINF:-1 tvg-id="FNCHD" tvg-name="FOX (WVUE-DT Â€“ NEW ORLEANS LA)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnblwBZLKKf_YUF7xpJFgBvYKahtZWBtqLVKt_o_5--MYDRD8uobMc034JpMuZ-gB3GDc&usqp=CAU" group-title="⚪ - USA FOX",FOX (WVUE-DT Â€“ NEW ORLEANS LA)
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585583
+#EXTINF:-1 tvg-id="FOXI" tvg-name="FOX 17" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnblwBZLKKf_YUF7xpJFgBvYKahtZWBtqLVKt_o_5--MYDRD8uobMc034JpMuZ-gB3GDc&usqp=CAU" group-title="⚪ - USA FOX",FOX 17
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585584
+#EXTINF:-1 tvg-id="FOXI" tvg-name="FOX 61" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnblwBZLKKf_YUF7xpJFgBvYKahtZWBtqLVKt_o_5--MYDRD8uobMc034JpMuZ-gB3GDc&usqp=CAU" group-title="⚪ - USA FOX",FOX 61
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585585
+#EXTINF:-1 tvg-id="FOXI" tvg-name="FOX HOUSTON TX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnblwBZLKKf_YUF7xpJFgBvYKahtZWBtqLVKt_o_5--MYDRD8uobMc034JpMuZ-gB3GDc&usqp=CAU" group-title="⚪ - USA FOX",FOX HOUSTON TX
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585587
+#EXTINF:-1 tvg-id="FOXI" tvg-name="FOX KHON 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnblwBZLKKf_YUF7xpJFgBvYKahtZWBtqLVKt_o_5--MYDRD8uobMc034JpMuZ-gB3GDc&usqp=CAU" group-title="⚪ - USA FOX",FOX KHON 2
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585588
+#EXTINF:-1 tvg-id="FOXI" tvg-name="FOX MILWAUKEE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnblwBZLKKf_YUF7xpJFgBvYKahtZWBtqLVKt_o_5--MYDRD8uobMc034JpMuZ-gB3GDc&usqp=CAU" group-title="⚪ - USA FOX",FOX MILWAUKEE
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585589
+#EXTINF:-1 tvg-id="FOXI" tvg-name="FOX NEWS CHANNEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnblwBZLKKf_YUF7xpJFgBvYKahtZWBtqLVKt_o_5--MYDRD8uobMc034JpMuZ-gB3GDc&usqp=CAU" group-title="⚪ - USA FOX",FOX NEWS CHANNEL
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585590
+#EXTINF:-1 tvg-id="FOXI" tvg-name="FOX SACRAMENTO CA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnblwBZLKKf_YUF7xpJFgBvYKahtZWBtqLVKt_o_5--MYDRD8uobMc034JpMuZ-gB3GDc&usqp=CAU" group-title="⚪ - USA FOX",FOX SACRAMENTO CA
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585591
+#EXTINF:-1 tvg-id="FOXI" tvg-name="FOX SALT LAKE CITY UT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnblwBZLKKf_YUF7xpJFgBvYKahtZWBtqLVKt_o_5--MYDRD8uobMc034JpMuZ-gB3GDc&usqp=CAU" group-title="⚪ - USA FOX",FOX SALT LAKE CITY UT
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585592
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 1" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjgKvjvMNXL3f3BtQoHI07uw6SjEdOO7klO1TUYwxFK-itWtYPG1fHX79FVMO43u2EK384A7GVk35AyXm0-yBNTw.png" group-title="⚪ - USA SPORTS",FOX SPORTS 1
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585593
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2" tvg-logo="https://dnslivetv.online:443/images/NQ3NASuhfDgILO0iDoSCa4hEAJqVG8BBAjnzQxvpY6ASysa60p7St5MW0sSQ90idtopNcjp2P3DmOZjZn34Ey_y2crg8w9bY6eaUQM5rn90KFKyeQuYFKmd83q6SJTxBQn9FeNdGh0F_5Ts59Jo6qK_6mzv4cT8hyYO0KfOoMYMlp67YTXpTocvVz5wfSe0u.png" group-title="⚪ - USA SPORTS",FOX SPORTS 2
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585594
+#EXTINF:-1 tvg-id="FOXI" tvg-name="FOX WUTV-BUFFALO NY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnblwBZLKKf_YUF7xpJFgBvYKahtZWBtqLVKt_o_5--MYDRD8uobMc034JpMuZ-gB3GDc&usqp=CAU" group-title="⚪ - USA FOX",FOX WUTV-BUFFALO NY
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585595
+#EXTINF:-1 tvg-id="FOXWX" tvg-name="GA | AUGUSTA | FOX WFXG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnblwBZLKKf_YUF7xpJFgBvYKahtZWBtqLVKt_o_5--MYDRD8uobMc034JpMuZ-gB3GDc&usqp=CAU" group-title="⚪ - USA FOX",GA | AUGUSTA | FOX WFXG
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585599
+#EXTINF:-1 tvg-id="FOXWX" tvg-name="GA | COLUMBUS | FOX WXTX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnblwBZLKKf_YUF7xpJFgBvYKahtZWBtqLVKt_o_5--MYDRD8uobMc034JpMuZ-gB3GDc&usqp=CAU" group-title="⚪ - USA FOX",GA | COLUMBUS | FOX WXTX
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585601
+#EXTINF:-1 tvg-id="FOXCAE" tvg-name="ID | CALDWELL | FOX KNIN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnblwBZLKKf_YUF7xpJFgBvYKahtZWBtqLVKt_o_5--MYDRD8uobMc034JpMuZ-gB3GDc&usqp=CAU" group-title="⚪ - USA FOX",ID | CALDWELL | FOX KNIN
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585623
+#EXTINF:-1 tvg-id="FOXI" tvg-name="ID | TWIN FALLS | FOX NET" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnblwBZLKKf_YUF7xpJFgBvYKahtZWBtqLVKt_o_5--MYDRD8uobMc034JpMuZ-gB3GDc&usqp=CAU" group-title="⚪ - USA FOX",ID | TWIN FALLS | FOX NET
+https://dnslivetv.online:443/sabeta/sHvZdhtftXj7/585624
+#EXTINF:-1 tvg-id="FOXI" tvg-name="IL | BLOOMINGTON | FOX WYZZ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnblwBZLKKf_YUF7xpJFgBvYKahtZWBtqLVKt_o
